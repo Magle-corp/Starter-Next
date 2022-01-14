@@ -2,7 +2,7 @@
 
 Partie front du projet [Starter-Kit](https://github.com/Magle-corp/Starter-Kit) construite avec Next.js.
 
-
+___
 
 ## Installation
 
