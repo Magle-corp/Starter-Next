@@ -8,7 +8,7 @@
     "start": "next start",
     "lint": "next lint",
     "type": "yarn tsc",
-    "test": "jest",
+    "test": "yarn jest",
     "prepare": "husky install"
   },
   "dependencies": {
