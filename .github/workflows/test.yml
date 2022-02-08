@@ -2,7 +2,11 @@ name: CI test
 
 on:
   push:
-    branches: [devel, staging]
+#    Uncomment line 7 and remove line 8 and 9,
+#    for enable this action
+#    branches: [devel, staging]
+    branches-ignore:
+      - '**'
 
 jobs:
   test:
